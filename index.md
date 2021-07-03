@@ -1,8 +1,4 @@
-# CourtFormTool
-
-TurboTax for your legal data.
-
-## the problem
+# the problem
 
 Court forms are a pain. If we dig in to the process of filling these forms, we'll find two major issues:
 
@@ -17,7 +13,7 @@ The typical process looks like this:
 
 In the end, the info is in your pdf forms. This is an improvement to having it scattered throughout the original emails and notes, but we can do better. We also haven't necessarily mapped the original source (email, note) to each piece of data entered into a pdf.
 
-## the solution
+# the solution
 
 CourtFormTool fixes these problems.
 
@@ -27,10 +23,10 @@ Once you complete the questionnaire, CourtFormTool calculates all of your client
 
 CourtFormTool doesn't just eliminate the tedium of filling out court forms. It also creates an organized and easy-to-use source of truth for all of your matter's data.
 
-## the benefits
+# the benefits
 
 CourtFormTool frees up attorneys and their staff to focus on real problems. It also eliminates simple errors and vastly speeds up requests for backup.
 
-## try it
+# try it
 
 CourtFormTool is a brand new service. We are currently accepting our first round of users. If you're ready to vastly improve your legal processes, please be in touch!
