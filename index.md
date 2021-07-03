@@ -35,7 +35,7 @@ CourtFormTool is produced by an experienced attorney working with a software dev
 
 ## security
 
-We're laser focused on the security of your client's data. For now, CourtFormTool ensures security by storing your data on your computer. This security comes at the cost of convenience. In the future, we may add a cloud storage option, which would allow you to access your data from anywhere.
+We're laser focused on the security of your client's data. For now, CourtFormTool ensures security by storing your data on your computer. This security comes at the cost of convenience. In the future, we may add a cloud storage option which would allow you to access your data from anywhere.
 
 ## try it
 
