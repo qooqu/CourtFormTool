@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# CourtFormTool
 
-You can use the [editor on GitHub](https://github.com/qooqu/CourtFormTool/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+TurboTax for your legal data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## the problem
 
-### Markdown
+Court forms are a pain. If we dig in to the process of filling these forms, we'll find two major issues:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-   tedium
+-   data organization and availability
 
-```markdown
-Syntax highlighted code block
+The typical process looks like this:
 
-# Header 1
-## Header 2
-### Header 3
+1. First, you have to dig through your emails and notes to gather all the relevant info.
+1. Then you have to do a bunch of mental gymnastics to decide what info goes where.
+1. Then you have to type it all in. And a lot of the info gets repeated across multiple forms, so you have to type it over and over.
 
-- Bulleted
-- List
+In the end, the info is in your pdf forms. This is an improvement to having it scattered throughout the original emails and notes, but we can do better. We also haven't necessarily mapped the original source (email, note) to each piece of data entered into a pdf.
 
-1. Numbered
-2. List
+## the solution
 
-**Bold** and _Italic_ and `Code` text
+CourtFormTool fixes these problems.
 
-[Link](url) and ![Image](src)
-```
+All you have to do is answer a series of straightforward questions about your matter. For each of your answers, you can easily associate the source document (email, note).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Once you complete the questionnaire, CourtFormTool calculates all of your client's relations, etc. and produces completed versions of all of the necessary forms.
 
-### Jekyll Themes
+CourtFormTool doesn't just eliminate the tedium of filling out court forms. It also creates an organized and easy-to-use source of truth for all of your matter's data.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qooqu/CourtFormTool/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## the benefits
 
-### Support or Contact
+CourtFormTool frees up attorneys and their staff to focus on real problems. It also eliminates simple errors and vastly speeds up requests for backup.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## try it
+
+CourtFormTool is a brand new service. We are currently accepting our first round of users. If you're ready to vastly improve your legal processes, please be in touch!
