@@ -33,4 +33,6 @@ CourtFormTool frees up attorneys and their staff to focus on real problems. It a
 
 ## try it
 
-CourtFormTool is a brand new service. We are currently accepting our first round of users. If you're ready to vastly improve your legal processes, please be in touch!
+CourtFormTool is a brand new service. We are currently focused on elder law court forms (MPC 160, 162, 163, 455, 755, 853, 854) and we are now accepting our first round of users.
+
+If you're ready to vastly improve your legal processes, please be in touch!
