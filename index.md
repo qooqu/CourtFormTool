@@ -45,6 +45,6 @@ CourtFormTool is a brand new service. We are currently focused on elder law cour
 
 We will be modifying the product to suit our initial users' needs. Once the product reaches maturity, we will offer it to the wider legal community at an expected price of $50 per month.
 
-If you're ready to vastly improve your legal processes, please be in touch!
+If you're ready to vastly improve your legal processes, please sign up!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhsbfDa4lHE7PdL-x6WF9dIwEUtBbO8O0E7_LeIoN_KOiiqw/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
