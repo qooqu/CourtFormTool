@@ -35,10 +35,16 @@ CourtFormTool is produced by an experienced attorney working with a software dev
 
 ## security
 
-We're laser focused on the security of your client's data. For now, CourtFormTool ensures security by storing your data on your computer. This security comes at the cost of convenience. In the future, we may add a cloud storage option which would allow you to access your data from anywhere.
+We're laser focused on the security of your client's data. For now, CourtFormTool ensures security by storing your data on your computer and only on your computer. CourthFormTool doesn't send any of your data onto the internet.
+
+Unfortunately, this rock-solid security comes at the cost of convenience. For now, you can only access your data on the computer you create it on. In the future, we plan to add a secure cloud storage option which will allow you to access your data from anywhere.
 
 ## try it
 
 CourtFormTool is a brand new service. We are currently focused on elder law court forms (MPC 160, 162, 163, 455, 755, 853, 854) and we are accepting our first round of users.
 
+We will be modifying the product to suit our initial users' needs. Once the product reaches maturity, we will offer it to the wider legal community at an expected price of $50 per month.
+
 If you're ready to vastly improve your legal processes, please be in touch!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdhsbfDa4lHE7PdL-x6WF9dIwEUtBbO8O0E7_LeIoN_KOiiqw/viewform?embedded=true" width="640" height="450" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
