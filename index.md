@@ -7,11 +7,15 @@ Court forms are a pain. The typical process for filling these forms has two majo
 -   tedium
 -   data organization
 
+### tedium
+
 The typical process looks like this:
 
 1. First, you dig through your emails and notes to gather all the relevant info.
 1. Then you do a bunch of mental gymnastics to decide what info goes where.
 1. Then you have to type it all in. And a lot of the info gets repeated across multiple forms, so you have to type it over and over.
+
+### data organization
 
 In the end, the info is in your pdf forms. This is an improvement over having it scattered throughout the original emails and notes, but it's not searchable or easy to extract for use elsewhere. We also haven't necessarily mapped the original source (email, note) to each piece of data entered into the pdf.
 
