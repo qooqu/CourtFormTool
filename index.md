@@ -31,7 +31,7 @@ CourtFormTool frees up attorneys and their staff to focus on real problems. It a
 
 ## the team
 
-CourtFormTool is produced by an experienced attorney working with a software developer. We're intentionally keeping the product focused enough that we can effectively keep the team tiny. This lets us be super responsive to feedback from our customers so that the product can quickly reach its full potential.
+CourtFormTool is produced by an experienced attorney working with a software developer. We're intentionally keeping the product focused enough that we can effectively keep the team tiny. This lets us be super responsive to feedback from our users so that the product can quickly reach its full potential.
 
 ## security
 
@@ -41,7 +41,7 @@ Unfortunately, this rock-solid security comes at the cost of convenience. For no
 
 ## try it
 
-CourtFormTool is a brand new service. We are currently focused on elder law court forms (MPC 160, 162, 163, 455, 755, 853, 854) and we are accepting our first round of users.
+CourtFormTool is a brand new service. We are currently focused on Massachusetts elder law court forms (MPC 160, 162, 163, 455, 755, 853, 854) and we are accepting our first round of users.
 
 We will be modifying the product to suit our initial users' needs. Once the product reaches maturity, we will offer it to the wider legal community at an expected price of $50 per month.
 
